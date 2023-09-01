@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Shawn! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<!--
-**Shawn-Nichol/Shawn-Nichol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projects</h2>
 
-Here are some ideas to get you started:
+- WAZUH SIEM Set up. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifications </h2>
+- [Security+](https://www.comptia.org/certifications/security)
+- [Network+](https://www.comptia.org/certifications/network)
+- [A+](https://www.comptia.org/certifications/a)
+
+<h2>Cheat Sheets</h2>
+
+- Nmap
+- CMD networking commands
+  
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[Linkedin](https://www.linkedin.com/in/shawn-nichol/)
+
