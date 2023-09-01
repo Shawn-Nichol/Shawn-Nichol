@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shawn! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a>
+<h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
