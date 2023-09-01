@@ -5,6 +5,7 @@
 - WAZUH SIEM Set up. 
 
 <h2> Certifications </h2>
+
 - [Security+](https://www.comptia.org/certifications/security)
 - [Network+](https://www.comptia.org/certifications/network)
 - [A+](https://www.comptia.org/certifications/a)
