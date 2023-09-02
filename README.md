@@ -1,4 +1,7 @@
-<h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a>
+<h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a> | <a href="https://tryhackme.com/p/m0refaster"/>TryHackMe top 4%</a> </h1>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/m0refaster.png" alt="TryHackMe">
+
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
@@ -21,4 +24,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [Linkedin](https://www.linkedin.com/in/shawn-nichol/)
+
+[Try Hack Me](https://tryhackme.com/p/m0refaster)
+
 
