@@ -3,9 +3,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/m0refaster.png" alt="TryHackMe">
 
 
-<h2>👨‍💻 Cyber Security Projects</h2>
 
-- WAZUH SIEM Set up. 
 
 <h2> Certifications </h2>
 
@@ -18,7 +16,9 @@
 - [Nmap](https://github.com/Shawn-Nichol/Cheat_Sheets/blob/main/Nmap.md)
 - CMD networking commands
   
+<h2>👨‍💻 Cyber Security Projects</h2>
 
+- WAZUH SIEM Set up. 
 
 
 <h2> 🤳 Connect with me:</h2>
