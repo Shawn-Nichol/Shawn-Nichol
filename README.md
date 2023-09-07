@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a> | <a href="https://tryhackme.com/p/m0refaster"/>TryHackMe top 4%</a> </h1>
+<h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a> | <a href="https://tryhackme.com/p/m0refaster"/>TryHackMe top 3%</a> </h1>
 
 Welcome to my GitHub. Here, you'll discover a world of cybersecurity, including:
 - 📜 A collection of cybersecurity certificates.
@@ -7,10 +7,11 @@ Welcome to my GitHub. Here, you'll discover a world of cybersecurity, including:
 - 📚 Playbooks for defending and securing the digital realm.
 
 Join me on this journey as we "Mend and Defend" the virtual world together!
+
 <h2>📜 Certifications </h2>
-- <a href="https://www.comptia.org/certifications/security">Security+</a></br>
-- <a href="https://www.comptia.org/certifications/network">Network+</a></br>
-- <a href="https://www.comptia.org/certifications/a">A+</a></br>
+<a href="https://www.comptia.org/certifications/security">CompTIASecurity+</a></br>
+<a href="https://www.comptia.org/certifications/network">CompTIA Network+</a></br>
+<a href="https://www.comptia.org/certifications/a">CompTIA A+</a></br>
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 - WAZUH SIEM Set up. 
