@@ -19,7 +19,7 @@ Join me on this journey as we "Mend and Defend" the virtual world together! </br
 <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/SOC_Level1">TryHackMe SOC LEVEL 1</a>
 
 <h2>👨‍💻 Cyber Security Projects</h2>
-- WAZUH SIEM Set up. 
+- <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM Setup guide. </a>
 
 
 <h2>🧩 CTF</h2>
