@@ -7,9 +7,9 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
   - <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM Setup guide. </a> 
 - 🧩 CTF Walkthrough guides.
   - <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/CTF">Try Hack Me</a> 
-- 📓 Cheat sheets contain shell commands.
-  - <a href="https://github.com/Shawn-Nichol/Cheat_Sheets/blob/main/Nmap.md">Nmap</a>
-  - CMD networking commands- 
+- 📓 Tools guide.
+  - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Nmap">Nmap</a>
+  - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Wireshark">Wire Shark</a>
 - 📚 Playbooks for defending and securing the digital realm.
   - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>
   - <a href="https://github.com/Shawn-Nichol/Playbook-Malware-Analysis/tree/main">Malware Analysis</a>
