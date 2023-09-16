@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a> | <a href="https://tryhackme.com/p/m0refaster"/>TryHackMe top 3%</a> </h1>
 
-Welcome to my GitHub, your portal to explore my cybersecurity portfolio and showcase my skills and achievements. Let's journey together to 'Mend and Defend' the virtual world, safeguarding digital landscapes one step at a time! </br>
+Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and showcase my skills and achievements. Let's journey together to 'Mend and Defend' the virtual world, safeguarding digital landscapes one step at a time! </br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/m0refaster.png" alt="TryHackMe">
 
 - 👨‍💻 Project walk-throughs.
@@ -13,7 +13,7 @@ Welcome to my GitHub, your portal to explore my cybersecurity portfolio and show
 - 📚 Playbooks for defending and securing the digital realm.
   - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>
   - <a href="https://github.com/Shawn-Nichol/Playbook-Malware-Analysis/tree/main">Malware Analysis</a>
-- 🎤 My Favorite Podcasts
+- 🎤 Recommend Cybersecurity Podcasts
   - <a href="https://twit.tv/shows/security-now">Security Now</a>
   - <a href="https://thecyberwire.com/podcasts/daily-podcast">Cyberwire Daily</a>
   - <a href="https://darknetdiaries.com/">Darknet Diaries</a>
