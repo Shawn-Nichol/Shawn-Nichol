@@ -11,7 +11,8 @@ Welcome to my GitHub, your portal to explore my cybersecurity portfolio and show
   - <a href="https://github.com/Shawn-Nichol/Cheat_Sheets/blob/main/Nmap.md">Nmap</a>
   - CMD networking commands- 
 - 📚 Playbooks for defending and securing the digital realm.
-  - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>   
+  - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>
+  - <a href="https://github.com/Shawn-Nichol/Playbook-Malware-Analysis/tree/main">Malware Analysis"</a>
 - 🎤 My Favorite Podcasts
   - <a href="https://twit.tv/shows/security-now">Security Now</a>
   - <a href="https://thecyberwire.com/podcasts/daily-podcast">Cyberwire Daily</a>
