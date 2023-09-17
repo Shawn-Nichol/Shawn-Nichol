@@ -8,7 +8,7 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 - 🧩 CTF Walkthrough guides.
   - <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/CTF">Try Hack Me</a> 
 - 🔧 Tools guide.
-  - <a href="https://github.com/Shawn-Nichol/Powershell>PowerShell</a>
+  - <a href="https://github.com/Shawn-Nichol/Powershell">PowerShell</a>
   - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Nmap">Nmap</a>
   - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Wireshark">Wire Shark</a>
 - 📚 Playbooks for defending and securing the digital realm.
