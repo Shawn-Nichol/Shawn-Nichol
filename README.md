@@ -25,10 +25,11 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 
 
 <h2>📜 Certifications </h2>
-<a href="https://www.comptia.org/certifications/security">CompTIASecurity+</a></br>
+<a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/SOC_Level1">Try Hack Me SOC LEVEL 1</a>
+<a href="https://www.comptia.org/certifications/security">CompTIA Security+</a></br>
 <a href="https://www.comptia.org/certifications/network">CompTIA Network+</a></br>
 <a href="https://www.comptia.org/certifications/a">CompTIA A+</a></br>
-<a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/SOC_Level1">TryHackMe SOC LEVEL 1</a>
+
 
 <h2> 🔗 Connect with me:</h2>
 
