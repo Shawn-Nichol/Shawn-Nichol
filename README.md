@@ -4,9 +4,7 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 <img src="https://tryhackme-badges.s3.amazonaws.com/m0refaster.png" alt="TryHackMe">
 
 - 👨‍💻 Project walk-throughs.
-  - <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM Setup guide. </a> 
-- 🧩 CTF Walkthrough guides.
-  - <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/CTF">Try Hack Me</a> 
+  - <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM Setup guide. </a>
 - 🔧 Tools guide.
   - <a href="https://github.com/Shawn-Nichol/Powershell">PowerShell</a>
   - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Nmap">Nmap</a>
@@ -14,6 +12,8 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 - 📚 Playbooks for defending and securing the digital realm.
   - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>
   - <a href="https://github.com/Shawn-Nichol/Playbook-Malware-Analysis/tree/main">Malware Analysis</a>
+- 🧩 CTF Walkthrough guides.
+  - <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/CTF">Try Hack Me</a> 
 - 🎤 Recommend Cybersecurity Podcasts
   - <a href="https://twit.tv/shows/security-now">Security Now</a>
   - <a href="https://thecyberwire.com/podcasts/daily-podcast">Cyberwire Daily</a>
