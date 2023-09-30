@@ -5,11 +5,13 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 
 - 👨‍💻 Home Lab Project
   - <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM Setup guide. </a>
+  - <a href="">Nessus</a>
   - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/Pi-Hole">Pi-Hole</a>
 - 🔧 Tools guide.
   - <a href="https://github.com/Shawn-Nichol/Powershell">PowerShell</a>
   - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Nmap">Nmap</a>
-  - Network Analysis( <a hrefj="https://github.com/Shawn-Nichol/Tools/tree/main/Network%20Analysis/Wireshark">Wire Shark</a>, NetworkMiner)
+  - Network Analysis (<a href="https://github.com/Shawn-Nichol/Tools/tree/main/Network%20Analysis/Wireshark">Wire Shark</a>, NetworkMiner)
+  - Vulnerability analysis(<a href="">Nesus</a>)
 - 📚 Playbooks for defending and securing the digital realm.
   - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>
   - <a href="https://github.com/Shawn-Nichol/Playbook-Malware-Analysis/tree/main">Malware Analysis</a>
