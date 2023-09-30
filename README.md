@@ -9,12 +9,13 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 - 🔧 Tools guide.
   - <a href="https://github.com/Shawn-Nichol/Powershell">PowerShell</a>
   - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Nmap">Nmap</a>
-  - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Wireshark">Wire Shark</a>
+  - Network Analysis( <a hrefj="https://github.com/Shawn-Nichol/Tools/tree/main/Network%20Analysis/Wireshark">Wire Shark</a>, NetworkMiner)
 - 📚 Playbooks for defending and securing the digital realm.
   - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>
   - <a href="https://github.com/Shawn-Nichol/Playbook-Malware-Analysis/tree/main">Malware Analysis</a>
 - 🧩 CTF Walkthrough guides.
-  - <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/CTF">Try Hack Me</a> 
+  - <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/CTF">Try Hack Me</a>
+  - <a href="https://github.com/Shawn-Nichol/PicoCTF">PicoCTF</a>
 - 🎤 Recommend Cybersecurity Podcasts
   - <a href="https://twit.tv/shows/security-now">Security Now</a>
   - <a href="https://thecyberwire.com/podcasts/daily-podcast">Cyberwire Daily</a>
