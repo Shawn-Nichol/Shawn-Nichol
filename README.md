@@ -5,7 +5,8 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 
 - 👨‍💻 Home Lab Project
   - <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM Setup guide. </a>
-  - <a href="">Nessus</a>
+  - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/Nessus">Nessus</a>
+  - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/OpenVAS">OpenVAS (Vulnerability Assessment Scanner)</a>
   - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/Pi-Hole">Pi-Hole</a>
 - 🔧 Tools guide.
   - <a href="https://github.com/Shawn-Nichol/Powershell">PowerShell</a>
