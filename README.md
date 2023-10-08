@@ -1,7 +1,6 @@
 <h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a> | <a href="https://tryhackme.com/p/m0refaster"/>TryHackMe top 3%</a> </h1>
 
 Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and showcase my skills and achievements. Let's journey together to 'Mend and Defend' the virtual world, safeguarding digital landscapes one step at a time! </br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/m0refaster.png" alt="TryHackMe">
 
 ## 📜 Certifications
 <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/SOC_Level1">Try Hack Me SOC LEVEL 1</a> | 
