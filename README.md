@@ -3,6 +3,7 @@
 Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and showcase my skills and achievements. Let's journey together to 'Mend and Defend' the virtual world, safeguarding digital landscapes one step at a time! </br>
 
 ## 📜 Certifications
+<a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/Cyber%20Defense1">Try Hack Me Cyber Defense</a> | 
 <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/SOC_Level1">Try Hack Me SOC LEVEL 1</a> | 
 <a href="https://www.comptia.org/certifications/security">CompTIA Security+</a> |
 <a href="https://www.comptia.org/certifications/network">CompTIA Network+</a> |
