@@ -4,10 +4,13 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 
 ## 📜 Certifications
 <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/Cyber%20Defense1">Try Hack Me Cyber Defense</a> | 
-<a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/SOC_Level1">Try Hack Me SOC LEVEL 1</a> | 
+<a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/SOC_Level1">Try Hack Me SOC LEVEL 1</a> 
+</br>
 <a href="https://www.comptia.org/certifications/security">CompTIA Security+</a> |
 <a href="https://www.comptia.org/certifications/network">CompTIA Network+</a> |
 <a href="https://www.comptia.org/certifications/a">CompTIA A+</a>
+</br>
+CCNA 1 & 2 (Expired 2012)
 
 ## 👨‍💻 Home Lab Project
 Welcome to my Cybersecurity Projects Home Lab repository! Here, you'll find detailed documentation for various cybersecurity projects I've implemented. Each project comes with comprehensive instructions for installation, setup, and usage, allowing you to replicate these projects in your own environment.
