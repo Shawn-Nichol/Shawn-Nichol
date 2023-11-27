@@ -12,7 +12,7 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 </br>
 CCNA 1 & 2 (Expired 2012)
 
-## 👨‍💻 Home Lab Project
+## 👨‍💻 [Home Lab Project](https://github.com/Shawn-Nichol/Cybersecurity-Projects)
 Welcome to my Cybersecurity Projects Home Lab repository! You'll find detailed documentation for various cybersecurity projects I've implemented here. Each project comes with comprehensive instructions for installation, setup, and usage, allowing you to replicate these projects in your own environment.
   - <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM </a>
   - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/Nessus">Nessus</a>
