@@ -13,33 +13,26 @@ Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and sho
 CCNA 1 & 2 (Expired 2012)
 
 ## 👨‍💻 Home Lab Project
-Welcome to my Cybersecurity Projects Home Lab repository! Here, you'll find detailed documentation for various cybersecurity projects I've implemented. Each project comes with comprehensive instructions for installation, setup, and usage, allowing you to replicate these projects in your own environment.
+Welcome to my Cybersecurity Projects Home Lab repository! You'll find detailed documentation for various cybersecurity projects I've implemented here. Each project comes with comprehensive instructions for installation, setup, and usage, allowing you to replicate these projects in your own environment.
   - <a href="https://github.com/Shawn-Nichol/Wazuh/tree/main">WAZUH SIEM </a>
   - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/Nessus">Nessus</a>
   - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/OpenVAS">OpenVAS (Vulnerability Assessment Scanner)</a>
   - <a href="https://github.com/Shawn-Nichol/Cybersecurity-Projects/tree/main/Pi-Hole">Pi-Hole</a>
 
-## 🔧 Tools guide.
-Explore a curated list of tools I'm familiar with, accompanied by a step-by-step guide, tips, and tricks to help you make the most out of these tools. 
-  - <a href="https://github.com/Shawn-Nichol/Powershell">PowerShell</a>
-  - <a href="https://github.com/Shawn-Nichol/Tools/tree/main/Nmap">Nmap</a>
-  - Network Analysis (<a href="https://github.com/Shawn-Nichol/Tools/tree/main/Network%20Analysis/Wireshark">Wire Shark</a>, NetworkMiner)
-  - Vulnerability analysis(<a href="">Nesus</a>)
+## 🔧 [Tools guide.](https://github.com/Shawn-Nichol/Tools)
+Explore a curated list of tools I'm familiar with, accompanied by a step-by-step guide, tips, and tricks to help you make the most of these tools. 
+
 
 ## 📚 Playbooks for defending and securing the digital realm.
-Playbooks provide a quick run of best practice when encounter certain scenarios. 
+Playbooks provide a quick run of best practices when encountering certain scenarios. 
   - <a href="https://github.com/Shawn-Nichol/PhisingPlaybook">Phishing</a>
   - <a href="https://github.com/Shawn-Nichol/Playbook-Malware-Analysis/tree/main">Malware Analysis</a>
 
-## 🧩 CapTure The Flag (CTF) Walkthrough guides.
+## 🧩 Capture The Flag (CTF) Walkthrough guides.
 CTF walk-through Here, you can find a list of CTFs that participated, along with notes on how to find the Flag. 
   - <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/CTF">Try Hack Me</a>
   - <a href="https://github.com/Shawn-Nichol/PicoCTF">PicoCTF</a>
 
-##  Recommend Cybersecurity Podcasts
-  - <a href="https://twit.tv/shows/security-now">Security Now</a>
-  - <a href="https://thecyberwire.com/podcasts/daily-podcast">Cyberwire Daily</a>
-  - <a href="https://darknetdiaries.com/">Darknet Diaries</a>
   
 ## 🔗 Connect with me:
 [Linkedin](https://www.linkedin.com/in/shawn-nichol/) </br>
