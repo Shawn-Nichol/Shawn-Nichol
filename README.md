@@ -1,6 +1,4 @@
-<h1>Hi, I'm Shawn! <br/> <a href="https://www.linkedin.com/in/shawn-nichol/">Cybersecurity Professional</a> | <a href="https://tryhackme.com/p/m0refaster"/>TryHackMe top 2%</a> </h1>
-
-Welcome to my GitHub, your portal, to explore my cybersecurity portfolio and showcase my skills and achievements. Let's journey together to 'Mend and Defend' the virtual world, safeguarding digital landscapes one step at a time! </br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93B.S+Cybersecurity+%7C+Western+Governors+University;%F0%9F%93%9C+SSCP+%7C+CYSA%2B+%7C+Security%2B+%7C+Network%2B+%7C+A%2B;%F0%9F%93%9C+BTL+%7C+ITIL+v4+%7C+THM+SOC+1+%7C+Project%2B;%F0%9F%94%8D+Threat+Detection+%7C+Log+Analysis+%7C+Phishing" alt="Typing SVG" /></a>
 
 ## 📜 Certifications
 <a href="https://github.com/Shawn-Nichol/TryHackMe/tree/main/Pathway/Cyber%20Defense1">Try Hack Me Cyber Defense</a> | 
