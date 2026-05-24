@@ -1,5 +1,5 @@
 
-<img width="1774" height="887" alt="Readme TItle" src="https://github.com/user-attachments/assets/d93b4235-87b1-4d8e-9ce7-01a75e53c8dd" />
+<img width="1774" height="600" alt="Readme TItle" src="https://github.com/user-attachments/assets/d93b4235-87b1-4d8e-9ce7-01a75e53c8dd" />
 
 <!-- Animation -->
 <div align="center">
