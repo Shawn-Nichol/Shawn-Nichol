@@ -9,8 +9,67 @@
 
 Labs and Live Projects
 
+<h1 align="center">TECH ARSENAL</h1>
+<h2 align="center">🔐 Security Tools</h2>
 
-<h1 align="center">Certification</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/WIRESHARK-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VIRUSTOTAL-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SYSINTERNALS-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SYSMON-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FRAMEWORK-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+<br>
+
+<h2 align="center">📊 Detection & Monitoring</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LOG%20ANALYTICS-MONITORING-3498db?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/EVENT%20VIEWER-MONITORING-3498db?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WINDOWS%20SECURITY%20LOGS-MONITORING-3498db?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+<br>
+
+<h2 align="center">💻 Languages & Scripting</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/POWERSHELL-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CMD-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BASH-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-DATABASE-e67e22?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+<br>
+
+<h2 align="center">🖥️ Infrastructure & OS</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WINDOWS-OS-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WINDOWS%20SERVER-OS-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-IDENTITY-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LINUX-OS-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VIRTUALBOX-VIRTUALIZATION-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+
+
+<h1 align="center">CERTIFICATION</h1>
 
 <br>
 <h3 align="center">🛡️CompTIA</h3>
