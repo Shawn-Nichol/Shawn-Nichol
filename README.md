@@ -10,73 +10,42 @@
 Labs and Live Projects
 
 
-# Certification
-<h3 align="center">🛡️ CompTIA</h3>
+<h1 align="center">Certification</h1>
 
-<div align="center" style="border: none;">
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/CYSA%2B-Certified-E63946?style=for-the-badge&labelColor=0D1117">
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Security%2B-Certified-E63946?style=for-the-badge&labelColor=0D1117">
-    </td>
-  </tr>
+<br>
+<h3 align="center">🛡️CompTIA</h3>
 
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/Network%2B-Certified-E63946?style=for-the-badge&labelColor=0D1117">
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://img.shields.io/badge/A%2B-Certified-E63946?style=for-the-badge&labelColor=0D1117">
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/CYSA+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SECURITY+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NETWORK+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/A%2B-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+</p>
 
-
-
+<br>
 <h3 align="center">🔐 ISC² • AXELOS • LPI</h3>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ISC%C2%B2%20SSCP-Certified-2ECC71?style=for-the-badge&labelColor=0D1117">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ITIL%20v4%20Foundation-Certified-9B59B6?style=for-the-badge&labelColor=0D1117">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Linux%20Essentials-Certified-F1C40F?style=for-the-badge&labelColor=0D1117">
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/ISC2%20SSCP-CERTIFIED-2ecc71?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ITIL%20V4%20FOUNDATION-CERTIFIED-9b59b6?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LINUX%20ESSENTIALS-CERTIFIED-f1c40f?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+</p>
 
-
+<br>
 <h3 align="center">🧩 Platforms</h3>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TryHackMe-Not%20Active-7F8C8D?style=for-the-badge&labelColor=0D1117">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Blue%20Team%20Labs-Not%20Active-7F8C8D?style=for-the-badge&labelColor=0D1117">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/LetsDefend-Active-27AE60?style=for-the-badge&labelColor=0D1117">
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/TRYHACKME-NOT%20ACTIVE-7f8c8d?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-NOT%20ACTIVE-7f8c8d?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE-27ae60?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+</p>
 
 
 
