@@ -7,7 +7,9 @@
 </div>
 
 
-Labs and Live Projects
+<p align="center">
+  <img src="./SVG_Title/Labs_and_Projects.svg" width="1000" />
+</p>
 
 
 <p align="center">
@@ -71,8 +73,9 @@ Labs and Live Projects
 </p>
 
 
-
-<h1 align="center">CERTIFICATION</h1>
+<p align="center">
+  <img src="./SVG_Title/Certification.svg" width="1000" />
+</p>
 
 <br>
 <h3 align="center">🛡️CompTIA</h3>
