@@ -45,15 +45,20 @@
 <h2 align="center">💻 Languages & Scripting</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POWERSHELL-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CMD-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BASH-SCRIPTING-e67e22?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-DATABASE-e67e22?style=for-the-badge&labelColor=2e2e2e" />
+  
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Command Prompt](https://img.shields.io/badge/CMD-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+
 </p>
 
 <br>
