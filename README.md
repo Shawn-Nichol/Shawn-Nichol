@@ -11,7 +11,7 @@ Labs and Live Projects
 ----------------------
 
 <p align="center">
-  <img src="./readme.svg" />
+  <img src="./readme.svg" width="1000" />
 </p>
 
 
