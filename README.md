@@ -8,25 +8,11 @@
 
 
 Labs and Live Projects
-----------------------
-
-<p align="center">
-  <img src="./readme.svg" width="1000" />
-</p>
-
-
-
 
 
 <p align="center">
-  https://img.shields.io/badge/TECH%20ARSENAL-%20-36BCF7?style=for-the-badge&labelColor=36BCF7
+  <img src="./SVG_Title/Tech_Arsenal.svg" width="1000" />
 </p>
-
-
------------------------------
-
-
-<h1 align="center">TECH ARSENAL</h1>
 <h2 align="center">🔐 Security Tools</h2>
 
 <p align="center">
