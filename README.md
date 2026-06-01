@@ -8,6 +8,35 @@
 
 
 Labs and Live Projects
+----------------------
+
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Tech%20Arsenal&fontColor=58A6FF" />
+
+
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+
+  <text x="50%" y="50%"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="Consolas, monospace"
+        font-size="36"
+        font-weight="700"
+        fill="#58A6FF"
+        letter-spacing="2">
+    PROJECTS
+  </text>
+
+  <line x1="35%" y1="78"
+        x2="65%" y2="78"
+        stroke="#58A6FF"
+        stroke-width="3"
+        stroke-linecap="round"/>
+
+</svg>
+
+-----------------------------
+
 
 <h1 align="center">TECH ARSENAL</h1>
 <h2 align="center">🔐 Security Tools</h2>
