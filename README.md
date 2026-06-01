@@ -77,7 +77,6 @@
   <img src="./SVG_Title/Certification.svg" width="1000" />
 </p>
 
-<br>
 <h3 align="center">🛡️CompTIA</h3>
 
 <p align="center">
