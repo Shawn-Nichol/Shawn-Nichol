@@ -4,13 +4,13 @@
         text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
         font-size="28"
-        fill="#0b3c5d"
+        fill="#36BCF7"
         font-weight="bold">
     TECH ARSENAL
   </text>
 
   <line x1="100" y1="65" x2="500" y2="65"
-        stroke="#0b3c5d"
+        stroke="#36BCF7"
         stroke-width="4"
         stroke-linecap="round"/>
 </svg>
