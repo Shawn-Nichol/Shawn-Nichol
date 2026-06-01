@@ -10,11 +10,6 @@
 Labs and Live Projects
 ----------------------
 
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Tech%20Arsenal&fontColor=58A6FF" />
-
-
-
 <p align="center">
   <img src="./readme.svg" />
 </p>
