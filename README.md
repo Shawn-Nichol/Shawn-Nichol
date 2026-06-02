@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## `⟨ MISSION FILES — LIVE PROJECTS ⟩`
+
 
 </div>
 
@@ -39,8 +39,9 @@
 Investigated a simulated phishing-based enterprise compromise. Correlated attacker behaviors, tracked persistence via registry modification, and analyzed malicious command-and-control traffic.
 
 `Splunk` `Wireshark` `Autopsy` `DeepBlueCLI` `Mandiant Redline`
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/70dad9b9-0fd1-4981-a2d0-7c57f6078a88" />
 
-<img src="https://raw.githubusercontent.com/Shawn-Nichol/BTL1-Capstone/main/image" alt="BTL1 Capstone Analysis" width="100%"/>
+
 
 [![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-0078D4?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/BTL1-Capstone)
 
