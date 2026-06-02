@@ -62,16 +62,16 @@
 <h2 align="center">🖥️ Infrastructure & OS</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WINDOWS-OS-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/WINDOWS-OS-0078D4?style=for-the-badge&labelColor=2e2e2e&logo=microsoft&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WINDOWS%20SERVER-OS-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-IDENTITY-0078D4?style=for-the-badge&labelColor=2e2e2e&logo=microsoftazure&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-IDENTITY-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/LINUX-OS-FCC624?style=for-the-badge&labelColor=2e2e2e&logo=linux&logoColor=black" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LINUX-OS-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VIRTUALBOX-VIRTUALIZATION-95a5a6?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/VIRTUALBOX-VIRTUALIZATION-183A61?style=for-the-badge&labelColor=2e2e2e&logo=virtualbox&logoColor=white" />
 </p>
+
+
 
 
 <p align="center">
