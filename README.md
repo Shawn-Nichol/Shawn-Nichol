@@ -7,6 +7,18 @@
 </div>
 
 
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/shawn-nichol/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=2e2e2e&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shawn-nichol&style=for-the-badge&color=0A66C2" />
+</p>
+
+
+
+
 <p align="center">
   <img src="./SVG_Title/Labs_and_Projects.svg" width="1000" />
 </p>
