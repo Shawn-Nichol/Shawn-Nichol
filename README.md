@@ -18,11 +18,54 @@
 <br>
 
 
-
+<!-- ########################################### -->
 <p align="center">
   <img src="./SVG_Title/Labs_and_Projects.svg" width="1000" />
 </p>
 
+<div align="center">
+
+## `⟨ MISSION FILES — LIVE PROJECTS ⟩`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 `BTL1-CAPSTONE BREACH INVESTIGATION`
+**⚡ Full-spectrum Blue Team analysis — host, network, and SIEM data log correlation**
+
+Investigated a simulated phishing-based enterprise compromise. Correlated attacker behaviors, tracked persistence via registry modification, and analyzed malicious command-and-control traffic.
+
+`Splunk` `Wireshark` `Autopsy` `DeepBlueCLI` `Mandiant Redline`
+
+<img src="https://raw.githubusercontent.com/Shawn-Nichol/BTL1-Capstone/main/image" alt="BTL1 Capstone Analysis" width="100%"/>
+
+[![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-0078D4?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/BTL1-Capstone)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 `100 DAYS OF PYTHON`
+**⚡ Building programmatic foundations — automation, scripting, and logical workflows**
+
+A disciplined timeline tracking interactive programming concepts. Developing core automation scripts, data structure manipulations, logic flows, and functional application building block by block.
+
+`Python 3` `Automation` `Scripting` `Logic Flows` `Data Manipulation`
+
+<img src="https://github.com/zeewilliams/Ransomware-IR/blob/main/redacted%20img.png?raw=true" alt="Python Progress" width="100%"/>
+
+[![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-CC0000?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/100-Days-of-Python)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+<!-- ########################################### -->
 
 <p align="center">
 <img src="./SVG_Title/Tech_Arsenal.svg" width="1000" />
