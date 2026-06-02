@@ -13,20 +13,21 @@
 
 
 <p align="center">
-  <img src="./SVG_Title/Tech_Arsenal.svg" width="1000" />
+<img src="./SVG_Title/Tech_Arsenal.svg" width="1000" />
 </p>
+
 <h2 align="center">🔐 Security Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WIRESHARK-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/WIRESHARK-TOOL-1679A7?style=for-the-badge&labelColor=2e2e2e&logo=wireshark&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VIRUSTOTAL-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/VIRUSTOTAL-TOOL-394EFF?style=for-the-badge&labelColor=2e2e2e&logo=virustotal&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SYSINTERNALS-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/SYSINTERNALS-TOOL-0078D4?style=for-the-badge&labelColor=2e2e2e&logo=microsoft&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SYSMON-TOOL-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/SYSMON-TOOL-0078D4?style=for-the-badge&labelColor=2e2e2e&logo=microsoft&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FRAMEWORK-1abc9c?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FRAMEWORK-FF6F00?style=for-the-badge&labelColor=2e2e2e&logo=mitre&logoColor=white" />
 </p>
 
 <br>
@@ -34,12 +35,13 @@
 <h2 align="center">📊 Detection & Monitoring</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOG%20ANALYTICS-MONITORING-3498db?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/LOG%20ANALYTICS-MONITORING-0078D4?style=for-the-badge&labelColor=2e2e2e&logo=microsoftazure&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/EVENT%20VIEWER-MONITORING-3498db?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/EVENT%20VIEWER-MONITORING-4D4D4D?style=for-the-badge&labelColor=2e2e2e&logo=microsoft&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WINDOWS%20SECURITY%20LOGS-MONITORING-3498db?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/WINDOWS%20SECURITY%20LOGS-MONITORING-0078D4?style=for-the-badge&labelColor=2e2e2e&logo=microsoft&logoColor=white" />
 </p>
+
 <br>
 
 <h2 align="center">💻 Languages & Scripting</h2>
