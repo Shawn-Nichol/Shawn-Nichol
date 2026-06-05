@@ -55,7 +55,12 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 
 `Python 3` `Automation` `Scripting` `Logic Flows` `Data Manipulation`
 
-<img src="https://github.com/zeewilliams/Ransomware-IR/blob/main/redacted%20img.png?raw=true" alt="Python Progress" width="100%"/>
+<!-- <img src="https://github.com/zeewilliams/Ransomware-IR/blob/main/redacted%20img.png?raw=true" alt="Python Progress" width="100%"/> -->
+<img src="https://github.com/Shawn-Nichol/Shawn-Nichol/blob/main/pictures/100_days_of_python.png" alt="Python Progress" width="100%"/>
+
+<p align="center">
+  <img src="100_days_of_python.png" alt="100 Days of Python Banner" width="800">
+</p>
 
 [![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-CC0000?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/100-Days-of-Python)
 
