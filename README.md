@@ -196,8 +196,7 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawn-nichol&theme=tokyonight" height="160em" />
 &nbsp;&nbsp;
 
-
-<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- 🔥 Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shawn-nichol&theme=tokyonight&background=0d0d1a&border=0099ff&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&sideLabels=0099ff&dates=c9d1d9" />
