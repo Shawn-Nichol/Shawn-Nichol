@@ -182,35 +182,70 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════ -->
+<!--              BLUE TEAM DASHBOARD              -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--              BLUE TEAM DASHBOARD              -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
 ## `⟨ BLUE TEAM METRICS ⟩`
 
 <br/>
 
-<!-- 📊 GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawn-nichol&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=0099ff&title_color=0099ff&icon_color=0099ff&text_color=c9d1d9&hide_border=false&count_private=true" />
-
-&nbsp;&nbsp;
-
-<!-- 🧠 Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-nichol&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=0099ff&title_color=0099ff&text_color=c9d1d9&hide_border=false&langs_count=6" />
+<!-- 🔍 Profile Summary (Primary Card - Clean + Reliable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawn-nichol&theme=tokyonight" width="95%" />
 
 <br/><br/>
 
-<!-- 🔥 Streak -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=shawn-nichol&theme=tokyonight&background=0d0d1a&border=0099ff&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&sideLabels=0099ff&dates=c9d1d9" />
+<!-- 📊 Stats + Languages (Simplified Grid) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawn-nichol&theme=tokyonight" height="160em" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shawn-nichol&theme=tokyonight" height="160em" />
+
+<br/><br/>
+
+<!-- 🔥 Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shawn-nichol&theme=tokyonight&background=0d0d1a&border=0099ff&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&sideLabels=0099ff&dates=c9d1d9" />
 
 <br/><br/>
 
 <!-- 📈 Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shawn-nichol&bg_color=0d0d1a&color=0099ff&line=00c3ff&point=66ccff&area=true&hide_border=false&border_color=0099ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shawn-nichol&bg_color=0d0d1a&color=0099ff&line=00c3ff&point=66ccff&area=true&hide_border=false&border_color=0099ff" width="95%" />
+
 
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════ -->
+<!--              BLUE TEAM DASHBOARD              -->
+<!-- ═══════════════════════════════════════════════ -->
 
+<div align="center">
 
+<h2 style="color:#0099ff">⟨ BLUE TEAM METRICS ⟩</h2>
 
+<br/>
+
+<!-- 🔍 Profile Summary -->
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawn-nichol&theme=tokyonight
+
+<br/><br/>
+
+<!-- 📊 Stats + Languages -->
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawn-nichol&theme=tokyonight
+&nbsp;&nbsp;
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shawn-nichol&theme=tokyonight
+
+<br/><br/>
+
+<!-- 🔥 Streak -->
 
 
 
