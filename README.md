@@ -176,21 +176,7 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
   <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE-27ae60?style=for-the-badge&logo=none&labelColor=2e2e2e" />
 </p>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--              BLUE TEAM DASHBOARD              -->
-<!-- ═══════════════════════════════════════════════ -->
 
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--              BLUE TEAM DASHBOARD              -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--              BLUE TEAM DASHBOARD              -->
-<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -206,7 +192,7 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 <!-- 📊 Stats + Languages (Simplified Grid) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawn-nichol&theme=tokyonight" height="160em" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shawn-nichol&theme=tokyonight" height="160em" />
+
 
 <br/><br/>
 
@@ -218,35 +204,6 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 <!-- 📈 Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawn-nichol&bg_color=0d0d1a&color=0099ff&line=00c3ff&point=66ccff&area=true&hide_border=false&border_color=0099ff" width="95%" />
 
-
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--              BLUE TEAM DASHBOARD              -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2 style="color:#0099ff">⟨ BLUE TEAM METRICS ⟩</h2>
-
-<br/>
-
-<!-- 🔍 Profile Summary -->
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawn-nichol&theme=tokyonight
-
-<br/><br/>
-
-<!-- 📊 Stats + Languages -->
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawn-nichol&theme=tokyonight
-&nbsp;&nbsp;
-https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shawn-nichol&theme=tokyonight
-
-<br/><br/>
-
-<!-- 🔥 Streak -->
-
-
-
-
