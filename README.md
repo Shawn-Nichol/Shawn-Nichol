@@ -180,7 +180,10 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 
 <div align="center">
 
-## `⟨ BLUE TEAM METRICS ⟩`
+<p align="center">
+<img src="./SVG_Title/Stats.svg" width="1000" />
+</p>
+
 
 <br/>
 
