@@ -7,7 +7,8 @@
 </div>
 
 
-
+<br>
+<br>
 <p align="right">
   <a href="https://www.linkedin.com/in/shawn-nichol/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=2e2e2e&logo=linkedin&logoColor=white" />
@@ -174,6 +175,40 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE-27ae60?style=for-the-badge&logo=none&labelColor=2e2e2e" />
 </p>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--              BLUE TEAM DASHBOARD              -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ BLUE TEAM METRICS ⟩`
+
+<br/>
+
+<!-- 📊 GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shawn-nichol&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=0099ff&title_color=0099ff&icon_color=0099ff&text_color=c9d1d9&hide_border=false&count_private=true" />
+
+&nbsp;&nbsp;
+
+<!-- 🧠 Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-nichol&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=0099ff&title_color=0099ff&text_color=c9d1d9&hide_border=false&langs_count=6" />
+
+<br/><br/>
+
+<!-- 🔥 Streak -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=shawn-nichol&theme=tokyonight&background=0d0d1a&border=0099ff&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&sideLabels=0099ff&dates=c9d1d9" />
+
+<br/><br/>
+
+<!-- 📈 Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shawn-nichol&bg_color=0d0d1a&color=0099ff&line=00c3ff&point=66ccff&area=true&hide_border=false&border_color=0099ff" />
+
+</div>
+
+<br/>
+
+
 
 
 
