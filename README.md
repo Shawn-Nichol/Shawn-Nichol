@@ -36,7 +36,7 @@ NAME        : Shawn Nichol
 TARGET_ROLE : SOC Analyst — Blue Team
 LOCATION    : Calgary, AB (Open to Remote)
 EDUCATION   : B.S. Cybersecurity — Western Governors University (In Progress)
-CERTS       : SSCP · CySA+ · Security+ · ITIL v4 · BTL1
+CERTS       : 11 Cybersecurity certs - SSCP · CySA+ · Security+ · ITIL v4 · BTL1 
 EXPERIENCE  : Broadcast Engineer — Real-time monitoring · Incident troubleshooting · Production-critical systems
 MISSION     : Mend. Defend.
 FOCUS       : Threat Detection · Log Analysis · Incident Response · SIEM Investigations
@@ -194,6 +194,28 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 
 <br>
 
+
+
+
+<h3 align="center">🧠 Blue Team & MITRE Training</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BTL1-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/THM%20SOC%201-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/THM%20CYBER%20DEFENSE-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ATT%26CK%20NAVIGATOR-ATTACKIQ-3498db?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK%20v13-ATTACKIQ-3498db?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+
+<br>
+
 <h3 align="center">🎯 CTF Rankings & Blue Team Performance</h3>
 
 <p align="center">
@@ -204,11 +226,14 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
   <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE%20INVESTIGATIONS-27ae60?style=for-the-badge&labelColor=2e2e2e" />
 </p>
 
+
+
 <p align="center">
 Hands-on blue team training with top percentile performance in threat detection, log analysis, and incident response scenarios.
 </p>
 
 
+<br><br>
 
 
 <div align="center">
