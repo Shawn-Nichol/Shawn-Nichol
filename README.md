@@ -82,7 +82,7 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 <img src="./SVG_Title/Tech_Arsenal.svg" width="1000" />
 </p>
 
-<h2 align="center">🔐 Security Tools</h2>
+<h2 align="center">🔐 Investigation Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WIRESHARK-TOOL-1679A7?style=for-the-badge&labelColor=2e2e2e&logo=wireshark&logoColor=white" />
@@ -96,9 +96,10 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FRAMEWORK-FF6F00?style=for-the-badge&labelColor=2e2e2e&logo=mitre&logoColor=white" />
 </p>
 
+
 <br>
 
-<h2 align="center">📊 Detection & Monitoring</h2>
+<h2 align="center">📊 Log Analysis & Monitoring </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOG%20ANALYTICS-MONITORING-0078D4?style=for-the-badge&labelColor=2e2e2e&logo=microsoftazure&logoColor=white" />
