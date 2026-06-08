@@ -47,6 +47,7 @@
 
 Investigated a simulated phishing-based enterprise compromise. Correlated attacker behaviors, tracked persistence via registry modification, and analyzed malicious command-and-control traffic.
 
+**🛠 Tools Used**  
 `Splunk` `Wireshark` `Autopsy` `DeepBlueCLI` `Mandiant Redline`
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/70dad9b9-0fd1-4981-a2d0-7c57f6078a88" />
 
