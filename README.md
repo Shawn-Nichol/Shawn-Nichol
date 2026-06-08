@@ -171,15 +171,21 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 </p>
 
 <br>
-<h3 align="center">🧩 Training Platforms & Labs</h3>
+
+<h3 align="center">🎯 CTF Rankings & Blue Team Performance</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-SOC%20Level%201%20Completed-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/TRYHACKME-TOP%202%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-BTL1%20Completed-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-TOP%203%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE%20INVESTIGATIONS-27ae60?style=for-the-badge&labelColor=2e2e2e" />
 </p>
+
+<p align="center">
+Hands-on blue team training with top percentile performance in threat detection, log analysis, and incident response scenarios.
+</p>
+
 
 
 
