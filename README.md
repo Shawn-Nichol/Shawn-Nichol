@@ -1,7 +1,11 @@
-
+<!-- ============================================================
+     Title Image
+     ============================================================ -->
 <img width="1774" height="600" alt="Readme TItle" src="https://github.com/user-attachments/assets/d93b4235-87b1-4d8e-9ce7-01a75e53c8dd" />
 
-<!-- Animation -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                           Text Animation                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=620&lines=%F0%9F%8E%93B.S+Cybersecurity+%7C+Western+Governors+University;%F0%9F%93%9C+SSCP+%7C+CYSA%2B+%7C+Security%2B+%7C+Network%2B+%7C+A%2B;%F0%9F%93%9C+BTL+%7C+ITIL+v4+%7C+THM+SOC+1+%7C+Project%2B;%F0%9F%94%8D+Threat+Detection+%7C+Log+Analysis+%7C+Phishing" alt="Typing SVG" /></a>
 </div>
@@ -9,6 +13,9 @@
 
 <br>
 <br>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 Linkedin Button and Page Views              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <p align="right">
   <a href="https://www.linkedin.com/in/shawn-nichol/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=2e2e2e&logo=linkedin&logoColor=white" />
@@ -19,7 +26,9 @@
 <br>
 
 
-<!-- ########################################### -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 Labs and home Projects                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="./SVG_Title/Labs_and_Projects.svg" width="1000" />
 </p>
@@ -33,7 +42,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
 ### 🔵 `BTL1-CAPSTONE BREACH INVESTIGATION`
 **⚡ Full-spectrum Blue Team analysis — host, network, and SIEM data log correlation**
 
@@ -56,14 +64,7 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 
 `Python 3` `Automation` `Scripting` `Logic Flows` `Data Manipulation`
 
-<!-- <img src="https://github.com/zeewilliams/Ransomware-IR/blob/main/redacted%20img.png?raw=true" alt="Python Progress" width="100%"/> -->
 <img src="https://github.com/Shawn-Nichol/Shawn-Nichol/blob/main/pictures/100_days_of_python.png" alt="Python Progress" width="100%"/>
-
-<p align="center">
-  <img src="100_days_of_python.png" alt="100 Days of Python Banner" width="800">
-</p>
-
-[![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-CC0000?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/100-Days-of-Python)
 
 </td>
 </tr>
@@ -72,7 +73,9 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 <br/>
 
 
-<!-- ########################################### -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      Skills Section                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
 <img src="./SVG_Title/Tech_Arsenal.svg" width="1000" />
@@ -137,7 +140,9 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 
 
 
-
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         Cetrification                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="./SVG_Title/Certification.svg" width="1000" />
 </p>
