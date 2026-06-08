@@ -10,7 +10,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=620&lines=%F0%9F%8E%93B.S+Cybersecurity+%7C+Western+Governors+University;%F0%9F%93%9C+SSCP+%7C+CYSA%2B+%7C+Security%2B+%7C+Network%2B+%7C+A%2B;%F0%9F%93%9C+BTL+%7C+ITIL+v4+%7C+THM+SOC+1+%7C+Project%2B;%F0%9F%94%8D+Threat+Detection+%7C+Log+Analysis+%7C+Phishing" alt="Typing SVG" /></a>
 </div>
 
-
 <br>
 <br>
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -25,6 +24,26 @@
 </p>
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                           About Me                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./SVG_Title/Labs_and_Projects.svg" width="1000" />
+</p>
+```yaml
+NAME        : Shawn Nichol
+TARGET_ROLE : SOC Analyst — Blue Team
+LOCATION    : Calgary, AB (Open to Remote)
+EDUCATION   : B.S. Cybersecurity — Western Governors University (In Progress)
+CERTS       : SSCP · CySA+ · Security+ · ITIL v4 · BTL1
+EXPERIENCE  : Broadcast Engineer — Real-time monitoring · Incident troubleshooting · Production-critical systems
+MISSION     : Mend. Defend.
+FOCUS       : Threat Detection · Log Analysis · Incident Response · SIEM Investigations
+PLATFORMS   : TryHackMe (Top 2%) · Blue Team Labs (Top 3%) · LetsDefend (Active)
+STATUS      : [ ACTIVE ] — Building SOC investigation labs & detection workflows
+```
+
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                 Labs and home Projects                      -->
