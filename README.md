@@ -171,14 +171,14 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 </p>
 
 <br>
-<h3 align="center">🧩 Platforms</h3>
+<h3 align="center">🧩 Training Platforms & Labs</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-NOT%20ACTIVE-7f8c8d?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/TRYHACKME-SOC%20Level%201%20Completed-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-NOT%20ACTIVE-7f8c8d?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-BTL1%20Completed-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE-27ae60?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE%20INVESTIGATIONS-27ae60?style=for-the-badge&labelColor=2e2e2e" />
 </p>
 
 
