@@ -28,8 +28,9 @@
 <!--                           About Me                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./SVG_Title/Labs_and_Projects.svg" width="1000" />
+  <img src="./SVG_Title/About_Me.svg" width="1000" />
 </p>
+
 ```yaml
 NAME        : Shawn Nichol
 TARGET_ROLE : SOC Analyst — Blue Team
