@@ -62,6 +62,7 @@ STATUS      : [ ACTIVE ] — Building SOC investigation labs & detection workflo
 <table>
 <tr>
 <td width="50%" valign="top">
+     
 ### 🔵 `BTL1-CAPSTONE BREACH INVESTIGATION`
 **⚡ Full-spectrum Blue Team analysis — host, network, and SIEM data log correlation**
 
