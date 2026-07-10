@@ -161,6 +161,78 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
   <img src="https://img.shields.io/badge/VIRTUALBOX-VIRTUALIZATION-183A61?style=for-the-badge&labelColor=2e2e2e&logo=virtualbox&logoColor=white" />
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         Roadmap                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./SVG_Title/Certification.svg" width="1000" />
+</p>
+
+```yaml
+
+2022_FOUNDATIONS:
+  OBJECTIVE : Build strong IT, networking, and system administration fundamentals
+  COMPLETED :
+    - CompTIA A+
+    - CompTIA Network+
+    - CompTIA CIOS
+
+2023_2024_BLUE_TEAM_TRANSITION:
+  OBJECTIVE : Transition from IT operations into cybersecurity defense
+  COMPLETED :
+    - CompTIA Security+
+    - CompTIA CSIS
+    - TryHackMe SOC Level 1 Path
+    - TryHackMe Cyber Defense Path
+    - MITRE ATT&CK Foundations
+    - MITRE ATT&CK Navigator
+    - Blue Team Level 1 (BTL1)
+    - CompTIA CySA+
+
+2025_SYSTEMS_AND_OPERATIONS:
+  OBJECTIVE : Expand operational security knowledge and technical depth
+  COMPLETED :
+    - ITIL 4 Foundation
+    - CompTIA Project+
+    - Linux Essentials
+
+2026_SECURITY_OPERATIONS_EXPANSION:
+  OBJECTIVE : Advance defensive security capabilities
+  COMPLETED :
+    - ISC² SSCP
+
+  PLANNED :
+    - CompTIA PenTest+
+    - CompTIA Data+
+
+  MILESTONES :
+
+
+2027_ADVANCED_DEFENSE:
+  OBJECTIVE : Validate advanced cybersecurity skills
+  PLANNED :
+    - Bachelor of Science — Cybersecurity & Information Assurance
+    - Certified CyberDefender (CCD)
+
+LONG_TERM_OBJECTIVES:
+  TARGETS :
+    - CISSP
+    - Master's Degree — Cybersecurity / Information Assurance
+    - Detection Engineering Expertise
+    - Threat Hunting Specialization
+    - LetsDefend Top 3% Active Users
+    - Hack The Box Top 3% Global Ranking
+
+CURRENT_FOCUS:
+  BUILDING :
+    - SOC Investigation Labs
+    - SIEM Detection Workflows
+    - Threat Hunting Capabilities
+    - Incident Response Playbooks
+    - Cloud Security Skills
+
+```
+
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
