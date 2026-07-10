@@ -162,10 +162,10 @@ A disciplined timeline tracking interactive programming concepts. Developing cor
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         Roadmap                       -->
+<!--                         ROADMAP                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./SVG_Title/Certification.svg" width="1000" />
+  <img src="./SVG_Title/Roadmap.svg" width="1000" />
 </p>
 
 ```yaml
