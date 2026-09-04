@@ -84,11 +84,11 @@ Investigated a simulated phishing-based enterprise compromise. Correlated attack
 
 A portfolio-driven PowerShell project focused on building cybersecurity investigation skills through hands-on practice. Demonstrates the use of PowerShell for workflow automation, system analysis, evidence collection, host investigations, and security-focused reporting while progressing toward SOC analyst and incident response responsibilities.
 
+`PowerShell 7+` `Windows Security` `Automation` `Threat Hunting` `Investigation`
 
+<img src="https://github.com/Shawn-Nichol/Shawn-Nichol/blob/main/pictures/PowerShell Thumbnail.png" alt="PowerShell" Automation width="100%"/>
 
-`Python 3` `Automation` `Scripting` `Logic Flows` `Data Manipulation`
-
-<img src="https://github.com/Shawn-Nichol/Shawn-Nichol/blob/main/pictures/100_days_of_python.png" alt="Python Progress" width="100%"/>
+[![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-0078D4?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/PowerShell-Automation-Lab-)
 
 </td>
 </tr>
