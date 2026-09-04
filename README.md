@@ -34,14 +34,13 @@
 ```yaml
 NAME        : Shawn Nichol
 TARGET_ROLE : SOC Analyst — Blue Team
-LOCATION    : Calgary, AB (Open to Remote)
+LOCATION    : Calgary, AB
 EDUCATION   : B.S. Cybersecurity — Western Governors University (In Progress)
 CERTS       : 11 Cybersecurity certs - SSCP · CySA+ · Security+ · ITIL v4 · BTL1 
-EXPERIENCE  : Broadcast Engineer — Real-time monitoring · Incident troubleshooting · Production-critical systems
-MISSION     : Mend. Defend.
+EXPERIENCE  : Real-time monitoring · Incident troubleshooting · Production-critical systems
+MISSION     : Mend & Defend.
 FOCUS       : Threat Detection · Log Analysis · Incident Response · SIEM Investigations
-PLATFORMS   : TryHackMe (Top 2%) · Blue Team Labs (Top 3%) · LetsDefend (Active)
-STATUS      : [ ACTIVE ] — Building SOC investigation labs & detection workflows
+PLATFORMS   : TryHackMe (Top 2%) · Blue Team Labs (Top 3%) · LetsDefend 
 ```
 
 <br><br>
@@ -79,10 +78,13 @@ Investigated a simulated phishing-based enterprise compromise. Correlated attack
 </td>
 <td width="50%" valign="top">
 
-### 🔴 `100 DAYS OF PYTHON`
-**⚡ Building programmatic foundations — automation, scripting, and logical workflows**
+### 🛡️ `POWERSHELL FOR CYBERSECURITY`
 
-A disciplined timeline tracking interactive programming concepts. Developing core automation scripts, data structure manipulations, logic flows, and functional application building block by block.
+**⚡ Applying PowerShell to threat hunting, incident response, and security operations**
+
+A portfolio-driven PowerShell project focused on building cybersecurity investigation skills through hands-on practice. Demonstrates the use of PowerShell for workflow automation, system analysis, evidence collection, host investigations, and security-focused reporting while progressing toward SOC analyst and incident response responsibilities.
+
+
 
 `Python 3` `Automation` `Scripting` `Logic Flows` `Data Manipulation`
 
