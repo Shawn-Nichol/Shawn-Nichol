@@ -96,6 +96,80 @@ A portfolio-driven PowerShell project focused on building cybersecurity investig
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         Cetrification                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="./SVG_Title/Certification.svg" width="1000" />
+</p>
+
+<h3 align="center">🛡️CompTIA</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CYSA+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SECURITY+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NETWORK+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/A%2B-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+</p>
+
+<br>
+<h3 align="center">🔐 ISC² • AXELOS • LPI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISC2%20SSCP-CERTIFIED-2ecc71?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ITIL%20V4%20FOUNDATION-CERTIFIED-9b59b6?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LINUX%20ESSENTIALS-CERTIFIED-f1c40f?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+</p>
+
+<br>
+
+
+
+
+<h3 align="center">🧠 Blue Team & MITRE Training</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BTL1-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/THM%20SOC%201-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/THM%20CYBER%20DEFENSE-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ATT%26CK%20NAVIGATOR-ATTACKIQ-3498db?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK%20v13-ATTACKIQ-3498db?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+
+<br>
+
+<h3 align="center">🎯 CTF Rankings & Blue Team Performance</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TRYHACKME-TOP%202%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-TOP%203%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE%20INVESTIGATIONS-27ae60?style=for-the-badge&labelColor=2e2e2e" />
+</p>
+
+
+
+<p align="center">
+Hands-on blue team training with top percentile performance in threat detection, log analysis, and incident response scenarios.
+</p>
+
+
+<br><br>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      Skills Section                         -->
@@ -194,90 +268,15 @@ LONG_TERM_OBJECTIVES:
 
 ```
 
-
-
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         Cetrification                       -->
+<!--                         Stats                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="./SVG_Title/Certification.svg" width="1000" />
-</p>
-
-<h3 align="center">🛡️CompTIA</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CYSA+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SECURITY+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NETWORK+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/A%2B-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
-</p>
-
-<br>
-<h3 align="center">🔐 ISC² • AXELOS • LPI</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ISC2%20SSCP-CERTIFIED-2ecc71?style=for-the-badge&logo=none&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ITIL%20V4%20FOUNDATION-CERTIFIED-9b59b6?style=for-the-badge&logo=none&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LINUX%20ESSENTIALS-CERTIFIED-f1c40f?style=for-the-badge&logo=none&labelColor=2e2e2e" />
-</p>
-
-<br>
-
-
-
-
-<h3 align="center">🧠 Blue Team & MITRE Training</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BTL1-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/THM%20SOC%201-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/THM%20CYBER%20DEFENSE-COMPLETE-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ATT%26CK%20NAVIGATOR-ATTACKIQ-3498db?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK%20v13-ATTACKIQ-3498db?style=for-the-badge&labelColor=2e2e2e" />
-</p>
-
-
-<br>
-
-<h3 align="center">🎯 CTF Rankings & Blue Team Performance</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-TOP%202%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-TOP%203%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE%20INVESTIGATIONS-27ae60?style=for-the-badge&labelColor=2e2e2e" />
-</p>
-
-
-
-<p align="center">
-Hands-on blue team training with top percentile performance in threat detection, log analysis, and incident response scenarios.
-</p>
-
-
-<br><br>
-
 
 <div align="center">
 
 <p align="center">
 <img src="./SVG_Title/Stats.svg" width="1000" />
 </p>
-
-
-<br/>
 
 <!-- 🔍 Profile Summary (Primary Card - Clean + Reliable) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawn-nichol&theme=tokyonight" width="95%" />
