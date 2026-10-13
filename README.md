@@ -112,7 +112,10 @@ A portfolio-driven PowerShell project focused on building cybersecurity investig
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NETWORK+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Data+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/A%2B-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+     
 </p>
 
 <br>
