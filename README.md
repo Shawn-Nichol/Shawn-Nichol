@@ -36,11 +36,11 @@ NAME        : Shawn Nichol
 TARGET_ROLE : SOC Analyst — Blue Team
 LOCATION    : Calgary, AB
 EDUCATION   : B.S. Cybersecurity — Western Governors University (In Progress)
-CERTS       : 11 Cybersecurity certs - SSCP · CySA+ · Security+ · ITIL v4 · BTL1 
+CERTS       : CySA+ · SSCP · BTL1 · Security+ · Network+ · Data+ · Project+ · ITIL 4 · LPI Linux Essentials
 EXPERIENCE  : Real-time monitoring · Incident troubleshooting · Production-critical systems
 MISSION     : Mend & Defend.
 FOCUS       : Threat Detection · Log Analysis · Incident Response · SIEM Investigations
-PLATFORMS   : TryHackMe (Top 2%) · Blue Team Labs (Top 3%) · LetsDefend 
+PLATFORMS   : TryHackMe (peak Top 1%) · Blue Team Labs (peak Top 3%) · LetsDefend
 ```
 
 <br><br>
@@ -57,6 +57,17 @@ PLATFORMS   : TryHackMe (Top 2%) · Blue Team Labs (Top 3%) · LetsDefend
 
 
 </div>
+
+### 🏠 `CYBERSECURITY HOME LAB — SOC DETECTION & RESPONSE`
+**⚡ Segmented Proxmox VE lab with an OPNsense firewall, Wazuh SIEM, Active Directory, and attack/detect exercises**
+
+Four isolated zones (management, attacker, victim, SIEM) with every inter-zone connection forced through firewall rules I write and inspect. Planned outcomes: attack simulation and triage, a NIST 800-61 incident report, a Sigma threat hunt mapped to MITRE ATT&CK, and a CVSS/EPSS vulnerability management cycle. Documented phase by phase, mistakes included.
+
+`Proxmox VE` `OPNsense` `Wazuh` `Active Directory` `MITRE ATT&CK` `Sigma`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shawn-Nichol/Cybersecurity-Homelab)
+
+<br>
 
 <table>
 <tr>
@@ -88,7 +99,7 @@ A portfolio-driven PowerShell project focused on building cybersecurity investig
 
 <img src="https://github.com/Shawn-Nichol/Shawn-Nichol/blob/main/pictures/PowerShell Thumbnail.png" alt="PowerShell" Automation width="100%"/>
 
-[![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-0078D4?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/PowerShell-Automation-Lab-)
+[![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-0078D4?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/PowerShell-Automation-Lab)
 
 </td>
 </tr>
@@ -250,9 +261,10 @@ Hands-on blue team training with top percentile performance in threat detection,
 ```yaml
 2026_SECURITY_OPERATIONS_EXPANSION:
   OBJECTIVE : Advance defensive security capabilities
+  COMPLETED :
+    - CompTIA Data+ (Sep 2026)
   PLANNED :
     - CompTIA PenTest+
-    - CompTIA Data+
 
 2027_ADVANCED_DEFENSE:
   OBJECTIVE : Validate advanced cybersecurity skills
