@@ -24,10 +24,6 @@
 </p>
 <br>
 
-<p align="center">
-  <b>🔎 Open to SOC Analyst · Incident Response · Vulnerability Management roles · Calgary, AB or remote</b>
-</p>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                           About Me                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
