@@ -1,7 +1,7 @@
 <!-- ============================================================
      Title Image
      ============================================================ -->
-<img width="1774" height="600" alt="Readme TItle" src="https://github.com/user-attachments/assets/d93b4235-87b1-4d8e-9ce7-01a75e53c8dd" />
+<img width="1774" height="600" alt="Shawn Nichol, SOC Analyst banner" src="https://github.com/user-attachments/assets/d93b4235-87b1-4d8e-9ce7-01a75e53c8dd" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                           Text Animation                    -->
@@ -24,6 +24,10 @@
 </p>
 <br>
 
+<p align="center">
+  <b>🔎 Open to SOC Analyst · Incident Response · Vulnerability Management roles · Calgary, AB or remote</b>
+</p>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                           About Me                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -36,7 +40,7 @@ NAME        : Shawn Nichol
 TARGET_ROLE : SOC Analyst — Blue Team
 LOCATION    : Calgary, AB
 EDUCATION   : B.S. Cybersecurity — Western Governors University (In Progress)
-CERTS       : CySA+ · SSCP · BTL1 · Security+ · Network+ · Data+ · Project+ · ITIL 4 · LPI Linux Essentials
+CERTS       : CySA+ · SSCP · BTL1 · Security+ · Network+ · A+ · Data+ · Project+ · ITIL 4 · LPI Linux Essentials
 EXPERIENCE  : Real-time monitoring · Incident troubleshooting · Production-critical systems
 MISSION     : Mend & Defend.
 FOCUS       : Threat Detection · Log Analysis · Incident Response · SIEM Investigations
@@ -63,6 +67,8 @@ PLATFORMS   : TryHackMe (peak Top 1%) · Blue Team Labs (peak Top 3%) · LetsDef
 
 Four isolated zones (management, attacker, victim, SIEM) with every inter-zone connection forced through firewall rules I write and inspect. Planned outcomes: attack simulation and triage, a NIST 800-61 incident report, a Sigma threat hunt mapped to MITRE ATT&CK, and a CVSS/EPSS vulnerability management cycle. Documented phase by phase, mistakes included.
 
+📄 Write-ups: [Phase 1 – Proxmox foundation](https://github.com/Shawn-Nichol/Cybersecurity-Homelab/tree/main/docs/01-proxmox-foundation) · [Phase 2 – Network segmentation](https://github.com/Shawn-Nichol/Cybersecurity-Homelab/tree/main/docs/02-network-segmentation)
+
 `Proxmox VE` `OPNsense` `Wazuh` `Active Directory` `MITRE ATT&CK` `Sigma`
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shawn-Nichol/Cybersecurity-Homelab)
@@ -80,7 +86,7 @@ Investigated a simulated phishing-based enterprise compromise. Correlated attack
 
 **🛠 Tools Used**  
 `Splunk` `Wireshark` `Autopsy` `DeepBlueCLI` `Mandiant Redline`
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/70dad9b9-0fd1-4981-a2d0-7c57f6078a88" />
+<img width="1536" height="1024" alt="BTL1 capstone investigation" src="https://github.com/user-attachments/assets/70dad9b9-0fd1-4981-a2d0-7c57f6078a88" />
 
 
 
@@ -97,7 +103,7 @@ A portfolio-driven PowerShell project focused on building cybersecurity investig
 
 `PowerShell 7+` `Windows Security` `Automation` `Threat Hunting` `Investigation`
 
-<img src="https://github.com/Shawn-Nichol/Shawn-Nichol/blob/main/pictures/PowerShell Thumbnail.png" alt="PowerShell" Automation width="100%"/>
+<img src="https://github.com/Shawn-Nichol/Shawn-Nichol/blob/main/pictures/PowerShell Thumbnail.png" alt="PowerShell for Cybersecurity lab" width="100%"/>
 
 [![View Repository](https://img.shields.io/badge/▶%20VIEW%20REPOSITORY-0078D4?style=for-the-badge&logoColor=white)](https://github.com/Shawn-Nichol/PowerShell-Automation-Lab)
 
@@ -126,6 +132,8 @@ A portfolio-driven PowerShell project focused on building cybersecurity investig
     <img src="https://img.shields.io/badge/Data+-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/A%2B-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PROJECT%2B-CERTIFIED-red?style=for-the-badge&logo=none&labelColor=2e2e2e" />
      
 </p>
 
@@ -167,9 +175,9 @@ A portfolio-driven PowerShell project focused on building cybersecurity investig
 <h3 align="center">🎯 CTF Rankings & Blue Team Performance</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TRYHACKME-TOP%202%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/TRYHACKME-PEAK%20TOP%201%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-TOP%203%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
+  <img src="https://img.shields.io/badge/BLUE%20TEAM%20LABS-PEAK%20TOP%203%25-2ecc71?style=for-the-badge&labelColor=2e2e2e" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LETSDEFEND-ACTIVE%20INVESTIGATIONS-27ae60?style=for-the-badge&labelColor=2e2e2e" />
 </p>
@@ -264,7 +272,7 @@ Hands-on blue team training with top percentile performance in threat detection,
   COMPLETED :
     - CompTIA Data+ (Sep 2026)
   PLANNED :
-    - CompTIA PenTest+
+    - CompTIA PenTest+ (WGU degree requirement)
 
 2027_ADVANCED_DEFENSE:
   OBJECTIVE : Validate advanced cybersecurity skills
@@ -278,40 +286,5 @@ LONG_TERM_OBJECTIVES:
     - Master's Degree — Cybersecurity / Information Assurance
     - Detection Engineering Expertise
     - Threat Hunting Specialization
-    - LetsDefend Top 3% Active Users
-    - Hack The Box Top 3% Global Ranking
 
 ```
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         Stats                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<p align="center">
-<img src="./SVG_Title/Stats.svg" width="1000" />
-</p>
-
-<!-- 🔍 Profile Summary (Primary Card - Clean + Reliable) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawn-nichol&theme=tokyonight" width="95%" />
-
-<br/><br/>
-
-<!-- 📊 Stats + Languages (Simplified Grid) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawn-nichol&theme=tokyonight" height="160em" />
-&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- 🔥 Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shawn-nichol&theme=tokyonight&background=0d0d1a&border=0099ff&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&sideLabels=0099ff&dates=c9d1d9" />
-
-<br/><br/>
-
-<!-- 📈 Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shawn-nichol&bg_color=0d0d1a&color=0099ff&line=00c3ff&point=66ccff&area=true&hide_border=false&border_color=0099ff" width="95%" />
-
-</div>
-
-<br/>
